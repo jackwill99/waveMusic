@@ -1,0 +1,26 @@
+.library-song {
+  padding: 1rem 1rem;
+  border-top: 1px solid gray;
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 2px 50px rgb(190, 190, 190);
+  .music-icon {
+    background: rgb(73, 72, 72);
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    flex-basis: 32px;
+  }
+  .song-info {
+    width: 250px;
+  }
+  &:hover {
+    background: rgb(204, 197, 247);
+  }
+}
+.selected {
+  background: #fadfd9;
+}
