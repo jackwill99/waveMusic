@@ -1,11 +1,14 @@
 import { v4 as uuidv4 } from "uuid";
+import song1 from './songs/1.mp3';
+import song3 from './songs/3.mp3';
+import song5 from './songs/5.mp3';
 
 function chillHop() {
   return [
     {
       name: "Ma Way Bu",
       artist: "Hlawn Paing",
-      audio: "/static/media/1.3fed8a0a.mp3",
+      audio: song1,
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
@@ -13,7 +16,7 @@ function chillHop() {
     {
       name: "Lay Htal Ka Eain",
       artist: "Bunny Phyo, Amara Phone",
-      audio: "/static/media/3.effd2f56.mp3",
+      audio: song3,
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
@@ -21,7 +24,7 @@ function chillHop() {
     {
       name: "Chit Nay P",
       artist: "Oak Soe Khant",
-      audio: "/static/media/5.4780277d.mp3",
+      audio: song5,
       color: ["#BA4A46", "#FDF0DD"],
       id: uuidv4(),
       active: false,
