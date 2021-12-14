@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/waveMusic/static/css/main.cb90b0b3.chunk.css",
-    "main.js": "/waveMusic/static/js/main.fa4f8640.chunk.js",
-    "main.js.map": "/waveMusic/static/js/main.fa4f8640.chunk.js.map",
+    "main.js": "/waveMusic/static/js/main.6eca2b09.chunk.js",
+    "main.js.map": "/waveMusic/static/js/main.6eca2b09.chunk.js.map",
     "runtime-main.js": "/waveMusic/static/js/runtime-main.2bef5a9e.js",
     "runtime-main.js.map": "/waveMusic/static/js/runtime-main.2bef5a9e.js.map",
     "static/js/2.ed9e7ff2.chunk.js": "/waveMusic/static/js/2.ed9e7ff2.chunk.js",
     "static/js/2.ed9e7ff2.chunk.js.map": "/waveMusic/static/js/2.ed9e7ff2.chunk.js.map",
     "index.html": "/waveMusic/index.html",
     "static/css/main.cb90b0b3.chunk.css.map": "/waveMusic/static/css/main.cb90b0b3.chunk.css.map",
-    "static/js/2.ed9e7ff2.chunk.js.LICENSE.txt": "/waveMusic/static/js/2.ed9e7ff2.chunk.js.LICENSE.txt"
+    "static/js/2.ed9e7ff2.chunk.js.LICENSE.txt": "/waveMusic/static/js/2.ed9e7ff2.chunk.js.LICENSE.txt",
+    "static/media/1.3fed8a0a.mp3": "/waveMusic/static/media/1.3fed8a0a.mp3",
+    "static/media/3.effd2f56.mp3": "/waveMusic/static/media/3.effd2f56.mp3",
+    "static/media/5.4780277d.mp3": "/waveMusic/static/media/5.4780277d.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.2bef5a9e.js",
     "static/js/2.ed9e7ff2.chunk.js",
     "static/css/main.cb90b0b3.chunk.css",
-    "static/js/main.fa4f8640.chunk.js"
+    "static/js/main.6eca2b09.chunk.js"
   ]
 }
